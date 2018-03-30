@@ -1,0 +1,5 @@
+c:\users\spfarm\documents\visual studio 2017\Projects\CustomMysiteCreation\CustomMysiteCreation\bin\Debug\CustomMysiteCreation.dll
+c:\users\spfarm\documents\visual studio 2017\Projects\CustomMysiteCreation\CustomMysiteCreation\bin\Debug\CustomMysiteCreation.pdb
+c:\users\spfarm\documents\visual studio 2017\Projects\CustomMysiteCreation\CustomMysiteCreation\obj\Debug\CustomMysiteCreation.dll
+c:\users\spfarm\documents\visual studio 2017\Projects\CustomMysiteCreation\CustomMysiteCreation\obj\Debug\CustomMysiteCreation.pdb
+C:\Users\spfarm\Documents\Visual Studio 2017\Projects\CustomMysiteCreation\CustomMysiteCreation\obj\Debug\CustomMysiteCreation.csprojResolveAssemblyReference.cache

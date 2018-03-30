@@ -1,0 +1,4 @@
+C:\Users\spfarm\Documents\Visual Studio 2017\Projects\CustomMysiteCreation\CustomMysiteCreation\bin\Release\CustomMysiteCreation.dll
+C:\Users\spfarm\Documents\Visual Studio 2017\Projects\CustomMysiteCreation\CustomMysiteCreation\bin\Release\CustomMysiteCreation.pdb
+C:\Users\spfarm\Documents\Visual Studio 2017\Projects\CustomMysiteCreation\CustomMysiteCreation\obj\Release\CustomMysiteCreation.dll
+C:\Users\spfarm\Documents\Visual Studio 2017\Projects\CustomMysiteCreation\CustomMysiteCreation\obj\Release\CustomMysiteCreation.pdb

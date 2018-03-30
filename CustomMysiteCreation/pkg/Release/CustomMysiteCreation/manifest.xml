@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="191a857e-a6a5-4c52-971e-313f12b8f1ac" SharePointProductVersion="16.0">
+  <Assemblies>
+    <Assembly Location="CustomMysiteCreation.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="CustomMysiteCreation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=89d3ee0d43447eb5" Namespace="CustomMysiteCreation.VisualWebPart1" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\CustomMysiteCreation\VWP_CustomMysiteCreation\VWP_CustomMysiteCreationUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="CustomMysiteCreation_CustomMysiteCreation\Feature.xml" />
+  </FeatureManifests>
+</Solution>

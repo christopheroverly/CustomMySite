@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.VisualWebPart" DefaultFile="VWP_CustomMysiteCreationUserControl.ascx" SupportedTrustLevels="FullTrust" SupportedDeploymentScopes="Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="VWP_CustomMysiteCreation\" Type="ElementManifest" />
+    <ProjectItemFile Source="VWP_CustomMysiteCreation.webpart" Target="VWP_CustomMysiteCreation\" Type="ElementFile" />
+    <ProjectItemFile Source="VWP_CustomMysiteCreationUserControl.ascx" Target="CONTROLTEMPLATES\CustomMysiteCreation\VWP_CustomMysiteCreation\" Type="TemplateFile" />
+  </Files>
+  <SafeControls>
+    <SafeControl Name="SafeControlEntry1" Assembly="$SharePoint.Project.AssemblyFullName$" Namespace="CustomMysiteCreation.VisualWebPart1" TypeName="*" IsSafe="true" IsSafeAgainstScript="false" />
+  </SafeControls>
+</ProjectItem>

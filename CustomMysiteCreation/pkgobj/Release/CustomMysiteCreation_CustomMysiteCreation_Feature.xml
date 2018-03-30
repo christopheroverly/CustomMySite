@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="6facb895-b79b-4e6d-ad99-3690789b58ca" Scope="Site" Title="CustomMysiteCreation Feature1">
+  <ElementManifests>
+    <ElementManifest Location="VWP_CustomMysiteCreation\Elements.xml" />
+    <ElementFile Location="VWP_CustomMysiteCreation\VWP_CustomMysiteCreation.webpart" />
+  </ElementManifests>
+</Feature>

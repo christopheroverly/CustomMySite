@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="191a857e-a6a5-4c52-971e-313f12b8f1ac" solutionId="191a857e-a6a5-4c52-971e-313f12b8f1ac" resetWebServer="false" sharePointProductVersion="16.0" name="CustomMysiteCreation" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="cfb98508-5254-4c90-b3ec-cf5b1fe8c27a" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="fba2631b-4264-4bf4-aabf-0904f6c79f16" />
+  </projectItems>
+</package>
